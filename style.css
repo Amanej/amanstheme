@@ -1,0 +1,36 @@
+/*
+Theme Name: Amansfoerstetheme
+Theme URI: https://www.solutus.no
+Author: Aman Mender
+Author URI: https://twitter.com/amanmender
+
+*/
+
+/* Reset */
+
+* {
+  margin: 0px;
+}
+
+html {
+  margin-top: 0px !important;
+}
+
+.sentrert {
+text-align: center;
+}
+
+.hovednavigering {
+  background-color: brown;
+  border-bottom: rgb(131,29,29) 3px solid;
+}
+
+.meny-liste {
+  display: inline-flex;
+  list-style-type: none;
+  margin-top: 10px;
+}
+
+.meny-item {
+  background-color: rgb(158, 79, 79); padding: 20px 40px;
+}
